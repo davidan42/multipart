@@ -1,3 +1,5 @@
+This is a fork; upstream is at https://github.com/defnull/multipart.
+
 Parser for multipart/form-data
 ==============================
 
